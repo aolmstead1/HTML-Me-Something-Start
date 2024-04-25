@@ -1,17 +1,17 @@
 body {
     margin: 8px;
     display: block; 
-    font-size: 50
+    font-size: 120%
 }
 
 #mainHeading {
     background-color: black;
-    color: white;
+    color: red;
     font-family: Impact
  }
- #funParagraph {
-    background-color: #79194e;
-    color: rgb(255, 236, 176);
-    font-family: Courier Bold;
-    font-size: 100
+ .funParagraph {
+    background-color: #730080;
+    color: green;
+    font-family: Impact;
+    font-size: 150%
  }
