@@ -1,1 +1,17 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block; 
+    font-size: 50
+}
+
+#mainHeading {
+    background-color: black;
+    color: white;
+    font-family: Impact
+ }
+ #funParagraph {
+    background-color: #79194e;
+    color: rgb(255, 236, 176);
+    font-family: Courier Bold;
+    font-size: 100
+ }
